@@ -1,0 +1,69 @@
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Cats Eye\cats eye_8.jpg	5
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Cats Eye\cats eye_23.jpg	5
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Hessonite\hessonite_24.jpg	11
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Variscite\variscite_24.jpg	23
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Garnet Red\garnet red_37.jpg	10
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Malachite\malachite_22.jpg	16
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Pearl\pearl_23.jpg	18
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Garnet Red\garnet red_22.jpg	10
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Almandine\almandine_23.jpg	1
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Danburite\danburite_0.jpg	6
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Cats Eye\cats eye_0.jpg	5
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Diamond\diamond_8.jpg	7
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Zircon\zircon_0.jpg	24
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Quartz Beer\quartz beer_0.jpg	19
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Kunzite\kunzite_7.jpg	14
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Malachite\malachite_0.jpg	16
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Quartz Beer\quartz beer_23.jpg	19
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Diamond\diamond_23.jpg	7
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Fluorite\fluorite_0.jpg	9
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Rhodochrosite\rhodochrosite_0.jpg	20
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Rhodochrosite\rhodochrosite_23.jpg	20
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Labradorite\labradorite_0.jpg	15
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Carnelian\carnelian_23.jpg	4
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Benitoite\benitoite_0.jpg	2
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Sapphire Blue\sapphire blue_5.jpg	21
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Jade\jade_0.jpg	13
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Labradorite\labradorite_37.jpg	15
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Iolite\iolite_7.jpg	12
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Labradorite\labradorite_22.jpg	15
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Beryl Golden\beryl golden_0.jpg	3
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Iolite\iolite_0.jpg	12
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Danburite\danburite_7.jpg	6
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Kunzite\kunzite_23.jpg	14
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Danburite\danburite_23.jpg	6
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Sapphire Blue\sapphire blue_0.jpg	21
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Alexandrite\alexandrite_23.jpg	0
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Emerald\emerald_38.jpg	8
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Carnelian\carnelian_0.jpg	4
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Benitoite\benitoite_23.jpg	2
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Variscite\variscite_0.jpg	23
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Beryl Golden\beryl golden_22.jpg	3
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Onyx Black\onyx black_0.jpg	17
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Almandine\almandine_8.jpg	1
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Beryl Golden\beryl golden_37.jpg	3
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Garnet Red\garnet red_0.jpg	10
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Sapphire Blue\sapphire blue_23.jpg	21
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Diamond\diamond_0.jpg	7
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Hessonite\hessonite_0.jpg	11
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Iolite\iolite_23.jpg	12
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Tanzanite\tanzanite_37.jpg	22
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Pearl\pearl_0.jpg	18
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Pearl\pearl_6.jpg	18
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Alexandrite\alexandrite_0.jpg	0
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Quartz Beer\quartz beer_38.jpg	19
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Onyx Black\onyx black_22.jpg	17
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Zircon\zircon_6.jpg	24
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Tanzanite\tanzanite_0.jpg	22
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Benitoite\benitoite_8.jpg	2
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Almandine\almandine_0.jpg	1
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Emerald\emerald_23.jpg	8
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Jade\jade_22.jpg	13
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Fluorite\fluorite_7.jpg	9
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Fluorite\fluorite_23.jpg	9
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Carnelian\carnelian_6.jpg	4
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Tanzanite\tanzanite_22.jpg	22
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Kunzite\kunzite_0.jpg	14
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Zircon\zircon_23.jpg	24
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Alexandrite\alexandrite_5.jpg	0
+E:\Python\BaiDuPaddle\宝石分类\data\dataset\Emerald\emerald_0.jpg	8
