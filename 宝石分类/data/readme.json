@@ -1,0 +1,156 @@
+{
+    "all_class_images": 811,
+    "all_class_name": "E:\\Python\\BaiDuPaddle\\\u5b9d\u77f3\u5206\u7c7b\\data\\dataset",
+    "class_detail": [
+        {
+            "class_eval_images": 3,
+            "class_label": 0,
+            "class_name": "Alexandrite",
+            "class_trainer_images": 31
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 1,
+            "class_name": "Almandine",
+            "class_trainer_images": 28
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 2,
+            "class_name": "Benitoite",
+            "class_trainer_images": 28
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 3,
+            "class_name": "Beryl Golden",
+            "class_trainer_images": 33
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 4,
+            "class_name": "Carnelian",
+            "class_trainer_images": 30
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 5,
+            "class_name": "Cats Eye",
+            "class_trainer_images": 28
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 6,
+            "class_name": "Danburite",
+            "class_trainer_images": 29
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 7,
+            "class_name": "Diamond",
+            "class_trainer_images": 28
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 8,
+            "class_name": "Emerald",
+            "class_trainer_images": 33
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 9,
+            "class_name": "Fluorite",
+            "class_trainer_images": 29
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 10,
+            "class_name": "Garnet Red",
+            "class_trainer_images": 33
+        },
+        {
+            "class_eval_images": 2,
+            "class_label": 11,
+            "class_name": "Hessonite",
+            "class_trainer_images": 28
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 12,
+            "class_name": "Iolite",
+            "class_trainer_images": 29
+        },
+        {
+            "class_eval_images": 2,
+            "class_label": 13,
+            "class_name": "Jade",
+            "class_trainer_images": 26
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 14,
+            "class_name": "Kunzite",
+            "class_trainer_images": 29
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 15,
+            "class_name": "Labradorite",
+            "class_trainer_images": 37
+        },
+        {
+            "class_eval_images": 2,
+            "class_label": 16,
+            "class_name": "Malachite",
+            "class_trainer_images": 26
+        },
+        {
+            "class_eval_images": 2,
+            "class_label": 17,
+            "class_name": "Onyx Black",
+            "class_trainer_images": 26
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 18,
+            "class_name": "Pearl",
+            "class_trainer_images": 30
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 19,
+            "class_name": "Quartz Beer",
+            "class_trainer_images": 32
+        },
+        {
+            "class_eval_images": 2,
+            "class_label": 20,
+            "class_name": "Rhodochrosite",
+            "class_trainer_images": 27
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 21,
+            "class_name": "Sapphire Blue",
+            "class_trainer_images": 31
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 22,
+            "class_name": "Tanzanite",
+            "class_trainer_images": 33
+        },
+        {
+            "class_eval_images": 2,
+            "class_label": 23,
+            "class_name": "Variscite",
+            "class_trainer_images": 28
+        },
+        {
+            "class_eval_images": 3,
+            "class_label": 24,
+            "class_name": "Zircon",
+            "class_trainer_images": 30
+        }
+    ]
+}
