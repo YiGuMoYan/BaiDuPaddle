@@ -1,0 +1,36 @@
+{
+    "all_class_images": 902,
+    "all_class_name": "E:\\Python\\BaiDuPaddle\\\u57fa\u4e8eVGG-16\u5b9e\u73b0\u4e2d\u8349\u836f\u5206\u7c7b\\data\\dataset\\Chinese Medicine\\",
+    "class_detail": [
+        {
+            "class_eval_images": 23,
+            "class_label": 0,
+            "class_name": "baihe",
+            "class_trainer_images": 157
+        },
+        {
+            "class_eval_images": 24,
+            "class_label": 1,
+            "class_name": "dangshen",
+            "class_trainer_images": 166
+        },
+        {
+            "class_eval_images": 24,
+            "class_label": 2,
+            "class_name": "gouqi",
+            "class_trainer_images": 161
+        },
+        {
+            "class_eval_images": 21,
+            "class_label": 3,
+            "class_name": "huaihua",
+            "class_trainer_images": 146
+        },
+        {
+            "class_eval_images": 23,
+            "class_label": 4,
+            "class_name": "jinyinhua",
+            "class_trainer_images": 157
+        }
+    ]
+}

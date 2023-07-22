@@ -1,0 +1,115 @@
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_106.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (40).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_67.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (123).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (66).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (138).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_52.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_164.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_106.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_18.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (23).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (57).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_79.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_96.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_74.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_23.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=4223973452,3673478908&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (48).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_142.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_171.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_1.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (86).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_121.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_204.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_79.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_128.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=2362776734,1140942930&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_179.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (62).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_157.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_113.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=2057755548,2864415269&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (180).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_155.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_70.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (1).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_147.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (78).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (154).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (130).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=972445614,651895309&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (4).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_120.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_164.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_142.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (7).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (32).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_93.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=3735570514,63457933&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (80).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_89.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_172.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_47.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_55.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=755127311,4004130075&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=3315494413,2074883669&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (172).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_5.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_129.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_179.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_81.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_1.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_106.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (95).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_6.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (115).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (98).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_71.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_86.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_171.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_135.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (49).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_42.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=2968446682,934936579&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_64.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_93.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_113.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_37.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_114.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_211.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (88).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_86.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_120.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (108).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_23.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=1447785248,1422580344&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (25).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (189).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_62.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=4085941830,1621840716&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (162).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (146).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_57.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_15.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_1.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_38.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=2627899129,3887910380&fm=200&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (197).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_139.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (55).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (73).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_30.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_128.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/u=1799747723,3250217206&fm=26&gp=0.jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\baihe/b (1).jpg	0
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_157.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_135.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (14).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_45.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_188.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_28.jpg	3
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\gouqi/cgcjyfyj (31).jpg	2
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\dangshen/dangshen_197.jpg	1
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\jinyinhua/jyh_15.jpg	4
+E:\Python\BaiDuPaddle\基于VGG-16实现中草药分类\data\dataset\Chinese Medicine\huaihua/huaihua_164.jpg	3
